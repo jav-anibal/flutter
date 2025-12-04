@@ -37,7 +37,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               alignment: Alignment.topCenter,
               child: SizedBox(
                 width: 250,
-                child: Image.asset('/images/logo.png'),
+                child: Image.asset('assets/images/logo.png'),
               ),
             ),
 
