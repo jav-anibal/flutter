@@ -1,0 +1,25 @@
+<!--
+  HTML básico — plantilla y ejemplos
+  Este archivo contiene:
+   - Plantilla HTML mínima y semántica
+   - Meta tags importantes
+   - Ejemplos de encabezados, navegación, formularios, tablas, listas e imágenes
+   - CSS básico dentro de <style> para aprendizaje rápido
+   - Pequeño script JavaScript al final
+   - Notas de accesibilidad y buenas prácticas
+-->
+
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Plantilla HTML básica con ejemplos y buenas prácticas" />
+  <title>Mi página HTML básica</title>
+
+  <!-- Favicon sencillo -->
+  <link rel="icon" href="data:;base64,iVBORw0KGgo="> <!-- placeholder -->
+
+  <!-- CSS simple (puedes moverlo a un archivo .css) -->
+  <style>
+    /* Reset muy simple */
